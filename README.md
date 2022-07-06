@@ -2,6 +2,6 @@
 
 Olá! Bem vindo ao livro de receitas. :wave: 
 
-**Lista de Receitas:**
+## **Lista de Receitas:**
 
 - raceita1
